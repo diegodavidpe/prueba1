@@ -1,0 +1,4 @@
+Hola como estan 
+este es el contenido de mi archivo1
+adios
+
